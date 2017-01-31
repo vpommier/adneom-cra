@@ -1,0 +1,4 @@
+env/*
+!env/cra.sample.env
+out/*
+node_modules/
